@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/my-post/pagina1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-post/pagina1/</guid>
+      <description>TOURISTMAP Actualmente, la sociedad no dispone de una APP detallada de dicha forma para ambos casos. Es por ello, que TOURISTMAP se diferencia ofreciendo a ambos sectores la opción de disfrutar de un viaje lo más completo posible sin dejar de visitar lugares interesantes aun no siendo los principales de la ciudad.
+Además, para aquellas personas que les guste ir sin rumbo la APP contará con un notificación(aviso) al pasar por algún lugar que ha sido de interés a otras personas, para que no te dejes ningún detalle de la ciudad por visitar.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/my-post/pagina2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-post/pagina2/</guid>
+      <description>objetivos de TOURISTMAP
+El objetivo de TOURISTMAP es poder ofrecer a cualquier sector la comodidad de realizar una ruta completa de viajes y de esta forma conocer lugares diferentes
+Este proyecto ocasionará interés a personas que no les guste tanto viajar por la labor que lleva la organización de un viaje, y por este motivo, se incrementará el consumo en ciudades al incrementar el turismo.
+algunas empresas colaboradoras tripadvisor civitatis </description>
+    </item>
+    
+  </channel>
+</rss>
